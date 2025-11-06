@@ -2,21 +2,20 @@
 
 Extension that allows cost accrual of non-stock item based on line level cost specified in Sales Order, Service Order and Appointment. 
 ==================================
+> [!IMPORTANT]
+>
+> To request this customization package, contact Acumatica customization team by submitting a [New Customization Request Case](https://portal.acumatica.com/Main?ScreenId=SP203006).
+> Assistance with setup, training, troubleshooting issues with this customization requires annual customization maintenance plan. 
+> 
 
 Out-of-box Acumatica allows cost accrual based on non-stock item’s Standard Cost, Markup Percentage or Percentage of Sales Price. This add-on/extension allows cost accrual based on line level cost defined in Sales Order, Service Order and Appointment. 
 
 ### Prerequisites | Supported Versions & Builds ##
 * Acumatica 2024 R2 (24.208.0020 or higher)
-
+* Acumatica 2025 R2 (25.200.0248 or higher)
+  
 Quick Start
 -----------
-
-### Installation
-
-##### Install customization deployment package
-1. Download the customization package (PXLineCostForAccrue.zip) appropriate for your version of Acumatica.
-2. In your Acumatica ERP instance, navigate to System -> Customization -> Customization Projects (SM204505), import PXLineCostForAccrue.zip as a customization project
-3. Publish customization project.
 
 ### Usage
 
