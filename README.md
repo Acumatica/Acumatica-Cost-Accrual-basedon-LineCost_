@@ -4,8 +4,8 @@ Extension that allows cost accrual of non-stock item based on line level cost sp
 ==================================
 > [!IMPORTANT]
 >
-> To request this customization package, contact Acumatica customization team by submitting a [New Customization Request Case](https://portal.acumatica.com/Main?ScreenId=SP203006).
-> Assistance with setup, training, troubleshooting issues with this customization requires annual customization maintenance plan. 
+> To request this customization package or upgrade, contact Acumatica customization team by submitting a [New Customization Request Case](https://portal.acumatica.com/Main?ScreenId=SP203006).
+> Assistance with getting upgraded customization package, setup, training, troubleshooting issues with this customization requires annual customization maintenance plan. 
 > 
 
 Out-of-box Acumatica allows cost accrual based on non-stock item’s Standard Cost, Markup Percentage or Percentage of Sales Price. This add-on/extension allows cost accrual based on line level cost defined in Sales Order, Service Order and Appointment. 
@@ -58,5 +58,3 @@ None at the moment
 ## Copyright and License
 
 Copyright © `2020` `Acumatica, INC`
-
-This component is licensed under the MIT License, a copy of which is available online [here](LICENSE)
