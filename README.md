@@ -13,6 +13,7 @@ Out-of-box Acumatica allows cost accrual based on non-stock item’s Standard Co
 ### Prerequisites | Supported Versions & Builds ##
 * Acumatica 2024 R2 (24.208.0020 or higher)
 * Acumatica 2025 R2 (25.200.0248 or higher)
+* Acumatica 2026 R1 (26.101.0225 or higher)
   
 Quick Start
 -----------
